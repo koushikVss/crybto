@@ -7,7 +7,7 @@
       "type":"image/png",
       "sizes":"192x192 48x48",
       "purpose":"any maskable"
-    }
+    },
     {
       "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
